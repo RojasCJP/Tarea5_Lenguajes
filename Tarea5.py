@@ -1,7 +1,6 @@
 print('Juan Pablo Rojas Chinchilla')
 print('201900289')
-print('Laboratorio Lenguajes Formales y de Programacion')
-print('')
+print('Laboratorio Lenguajes Formales y de Programacion Seccion A+')
 
 expresion1 = '__servidor1'
 expresion2 = '3servidor'
